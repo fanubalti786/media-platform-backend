@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fanubalti786/media-platform-backend/issues"
   },
-  "homepage": "https://github.com/fanubalti786/media-platform-backend#readme"
+  "homepage": "https://github.com/fanubalti786/media-platform-backend#readme",
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
 }
