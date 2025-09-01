@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/fanubalti786/media-platform-backend#readme",
   "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0",
     "prettier": "^3.6.2"
   }
 }
